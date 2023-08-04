@@ -1,0 +1,5 @@
+ro.display.series=Xiaomi Mi 5X
+ro.crypto.volume.filenames_mode=aes-256-cts
+
+# Dynamic partition
+ro.boot.dynamic_partitions=true
